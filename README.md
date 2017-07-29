@@ -1,3 +1,1 @@
-# PHP-Shopping-Cart-with-CRUD
-Shopping cart site with admin rights to maintain categories and products. <br>
-Project
+Project - Comic book web app shopping site with admin rights to buy rare comics
